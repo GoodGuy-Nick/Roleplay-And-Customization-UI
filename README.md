@@ -21,6 +21,6 @@ The Roleplay and Customization UI is a dynamic system created for use on the Rob
 1. [Take a copy](https://www.roblox.com/library/15852594403/) of the system loader model from the Roblox Library.
 2. Insert the model into Studio using the Toolbox, and review the instructions within the 'Instructions' script.
 
-### ⚖️ License
+### License
 
 RACU is available under the terms of [the MIT license](https://github.com/Roleplay-And-Customization-UI/master/LICENSE).
