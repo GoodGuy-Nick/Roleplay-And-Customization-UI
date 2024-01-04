@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/GoodGuy-Nick/Roleplay-And-Customization-UI/main/.github/workflows/good%20guy%20nick.png?width=300&height=260" alt="The RACU logo" width="300" height="260">
+<img src="https://github.com/GoodGuy-Nick/Roleplay-And-Customization-UI/blob/main/.github/workflows/good%20guy%20nick.png" alt="The RACU logo" width="300" height="260">
 
 <div>&nbsp;</div>
 
