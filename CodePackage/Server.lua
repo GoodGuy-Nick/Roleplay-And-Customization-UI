@@ -9,8 +9,6 @@ print("Server.lua is running!")
 ██████╔╝███████╗██║░░██║░░╚██╔╝░░███████╗██║░░██║
 ╚═════╝░╚══════╝╚═╝░░╚═╝░░░╚═╝░░░╚══════╝╚═╝░░╚═╝
 
-Written by Ellis
-
 This handles direct input from the Client and directs it to the appropriate module script.
 
 ]]
