@@ -6,7 +6,7 @@
 
 [![Roblox model](https://img.shields.io/static/v1?label=roblox&message=model&color=blue&logo=roblox&logoColor=white)](https://www.roblox.com/library/15852594403/)
 [![LICENSE](https://img.shields.io/github/license/Epix-Incorporated/Adonis)](https://github.com/GoodGuy-Nick/Roleplay-And-Customization-UI/blob/main/LICENSE "The legal LICENSE governing the usage of the system")
-[![lint](https://github.com/Epix-Incorporated/Adonis/actions/workflows/lint.yml/badge.svg)](https://github.com/Roleplay-And-Customization-UI/blob/main/.github/workflows/lint.yml "Allows to check if the code of the admin system is valid without errors.")
+[![lint](https://github.com/Epix-Incorporated/Adonis/actions/workflows/lint.yml/badge.svg)](https://github.com/GoodGuy-Nick/Roleplay-And-Customization-UI/blob/main/lint.yml "Allows to check if the code of the admin system is valid without errors.")
 
 </div>
 
