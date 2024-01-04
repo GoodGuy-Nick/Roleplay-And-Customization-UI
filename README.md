@@ -14,6 +14,8 @@
 
 The Roleplay and Customization UI is a dynamic system created for use on the Roblox platform, allowing versatile customization and a number of systems made to fulfill and complete roleplay needs.
 
+You will **not** be able to set up the system through this, and the upload is primarily set for the purposes of allowing open-source review and licensing purposes. 
+
 <h2 id="install"> Setup </h2>
 
 ### Official Roblox Model
